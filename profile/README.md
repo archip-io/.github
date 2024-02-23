@@ -7,3 +7,4 @@
 их в тематические коллекции для удобства хранения и поиска.
 
 [Дизайн в фигме](https://www.figma.com/file/0FnYHgsarp6KkhmHAoXCSx/Archipio?type=design&node-id=0%3A1&mode=design&t=D4LqwG7v0iviUMc1-1)
+[Начало аналитики](https://docs.google.com/document/d/18zYJOGxoknxOBiDiYecbkYp1NehqQvGE/edit?usp=sharing&ouid=118407220686326859687&rtpof=true&sd=true)
